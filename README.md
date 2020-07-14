@@ -16,4 +16,4 @@ I'm also finishing my degree in computer science at the Federal University of Ub
 
 > You can also see the posts of the Comp Pet group on the [PrintF project](https://comppet.github.io/PrintF/)
 
-> mMybe you might be interested in reading some [blog posts](http://blog.spinpay.com.br/) of the company I work for.
+> Maybe you might be interested in reading some [blog posts](http://blog.spinpay.com.br/) of the company I work for.
