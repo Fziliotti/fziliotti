@@ -12,7 +12,7 @@ I’m currently learning and improving my skills with Clean Code, Clean Architec
 I'm also finishing my degree in computer science at the Federal University of Uberlândia.
 
 
-> You can see my last personal project on the [Covid-Info website)](http://covidinfo.com.br/)
+> You can see my last personal project on the [Covid-Info website](http://covidinfo.com.br/)
 
 > You can also see the posts of the Comp Pet group on the [PrintF project](https://comppet.github.io/PrintF/)
 
