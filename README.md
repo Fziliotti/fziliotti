@@ -17,6 +17,4 @@ Software Engineer at [@SpinPay](https://spinpay.com.br/).
 
 ---
 
-> You can see my last personal project on the [Covid-Info website](http://covidinfo.com.br/).
-
 > Maybe you might be interested in reading some [blog posts](http://blog.spinpay.com.br/) of the company I work for.
