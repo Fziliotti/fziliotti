@@ -13,7 +13,7 @@ Software Engineer at [@SpinPay](https://spinpay.com.br/).
 
 🎓 I'm also finishing my degree in computer science at the Federal University of Uberlândia.
 
-📜 My undergraduate thesis will be about PWAs and MicroFrontEnds.
+📜 My undergraduate thesis will be about PWAs (Progressive Web Apps)
 
 ---
 
