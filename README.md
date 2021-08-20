@@ -13,6 +13,6 @@ Front End Engineer at [@TQI](https://www.tqi.com.br/).
 
 🎓 I'm also finishing my degree in computer science at the Federal University of Uberlândia.
 
-📜 My undergraduate thesis will be about PWAs (Progressive Web Apps)
+📜 My undergraduate thesis is about PWAs (Progressive Web Apps)
 
 ---
