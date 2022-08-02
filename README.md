@@ -9,7 +9,7 @@ Front End Engineer at [@TQI](https://www.tqi.com.br/) - [PagSeguro](https://pags
 
 💻 I develop websites, blogs and web applications. Most of the time, I work with the React Ecosystem and its main frameworks (Next, Gatsby, CRA.. ), sometimes I code some server side using Typescript and Node.
 
-📖 I’m currently learning and improving my skills with Clean Code, Clean Architecture and the new browser features.
+📖 I’m currently learning and improving my skills with Clean Code, Web Architecture and the new browser features.
 
 🎓 I'm also finishing my degree in computer science at the Federal University of Uberlândia.
 
