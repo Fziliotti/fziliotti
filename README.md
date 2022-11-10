@@ -1,7 +1,7 @@
 
 # Fabrício Ziliotti
 
-Enthusiast of Software Engineering and Web Architecture.
+Enthusiast of Frontend Engineering and Web Architecture.
 
 Front End Engineer at [@TQI](https://www.tqi.com.br/) - [PagSeguro](https://pagseguro.uol.com.br/).
 
