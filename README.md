@@ -1,7 +1,7 @@
 
 # Fabrício Ziliotti
 
-Enthusiast of Frontend Engineering and Web Architecture.
+Enthusiast of Frontend Engineering and Web Performance.
 
 Front End Engineer at [@TQI](https://www.tqi.com.br/) - [PagSeguro](https://pagseguro.uol.com.br/).
 
@@ -9,7 +9,7 @@ Front End Engineer at [@TQI](https://www.tqi.com.br/) - [PagSeguro](https://pags
 
 💻 I develop websites, blogs and web applications since 2014. Most of the time, I work with the React Ecosystem and its main frameworks (Next, Gatsby, CRA.. ), sometimes I code backend using Node with Typescript.
 
-📖 I’m currently learning and improving my skills with Web Architecture, Clean Code, and the new browser features.
+📖 I’m currently learning and improving my skills with Web Performance, Clean Code, and the new browser features.
 
 📜 My undergraduate thesis was about the impact of Web Performance on User Experience.
 
